@@ -1,6 +1,10 @@
 ## Charger
 ro.charger.enable_suspend=true
 
+# Dexopt
+pm.dexopt.first-boot=quicken
+pm.dexopt.bg-dexopt=everything
+
 ## fastbootd
 ro.fastbootd.available=true
 
